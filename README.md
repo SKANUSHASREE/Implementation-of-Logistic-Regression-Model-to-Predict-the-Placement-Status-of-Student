@@ -64,33 +64,42 @@ lr.predict([[1,80,1,0,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
 TOP 5 ELEMENTS
+
 ![image](https://github.com/user-attachments/assets/8833e3fc-6161-4af6-ac2b-5362d02a95b9)
 ![image](https://github.com/user-attachments/assets/ca67c56b-7153-4500-a23c-251b28c007c8)
 
 NULL DATA 
+
 ![image](https://github.com/user-attachments/assets/110ac27c-0664-4162-b53e-8e9ee26a8802)
 
 DATA DUPLICATE
+
 ![image](https://github.com/user-attachments/assets/0b8600ce-7d43-424f-ab5e-f8b221cb6537)
 
 DATA STATUS
+
 ![image](https://github.com/user-attachments/assets/1b406b54-cb25-4022-a999-705c633febd1)
 ![image](https://github.com/user-attachments/assets/5e4820d1-7ab9-4bcc-9bd1-95a77b7fcd32)
 ![image](https://github.com/user-attachments/assets/0618847f-d761-43c5-9aef-ec38938d7463)
 
 Y_PREDICTION ARRAY
+
 ![image](https://github.com/user-attachments/assets/afb85c66-1bc8-408d-a2b6-77a0c9527e2e)
 
 ACCURACY VALUE
+
 ![image](https://github.com/user-attachments/assets/00c4f6b4-e096-4109-bb32-a196b32ee19b)
 
 CONFUSION ARRAY
+
 ![image](https://github.com/user-attachments/assets/4f3b18b2-0f2f-4f0a-a92b-6d585786fcf0)
 
 CLASSIFICATION REPORT
+
 ![image](https://github.com/user-attachments/assets/2b7c2240-c4e5-469a-81c6-4a3a35796e3f)
 
 PREDICTION ARRAY
+
 ![image](https://github.com/user-attachments/assets/4efa437f-a765-4545-93d1-211477386542)
 
 ## Result:
